@@ -43,4 +43,4 @@ Skills: HTML5 / CSS3 / Bootstrap 5/ Tailwind CSS/ JavaScript / REACT / Node.JS/ 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Imtius-Ahammed)  
 
-![Profile views](https://gpvc.arturio.dev/Imtius-Ahammed)  
+
