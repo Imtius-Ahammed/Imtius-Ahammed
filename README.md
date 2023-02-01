@@ -1,6 +1,6 @@
 
 
-![Profile views](https://gpvc.arturio.dev/Imtius-Ahammed) 
+
 
 ### Hi there 👋, I'm Md. Imtius AHammed
 
@@ -25,6 +25,7 @@ Skills: HTML5 / CSS3 / Bootstrap 5/ Tailwind CSS/ JavaScript / REACT / Node.JS/ 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Whatsapp: +8801853599236 Email: ahammedimtius098@gmail.com 
+![Profile views](https://gpvc.arturio.dev/Imtius-Ahammed) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Imtius-Ahammed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mdimtiusahammed.netlify.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/md-imtius-ahammed-b10a0920a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100008503034394&mibextid=ZbWKwL)  
