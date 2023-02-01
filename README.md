@@ -3,7 +3,7 @@
 
 
 ### Hi there 👋,
-I'm Md. Imtius AHammed
+I'm Md. Imtius Ahammed
 
 #### Web Developer(MERN)
 ![Web Developer(MERN)](https://media.licdn.com/dms/image/D5616AQG7pMSuBB0sMw/profile-displaybackgroundimage-shrink_350_1400/0/1673357404767?e=1680739200&v=beta&t=ZLxZCHdCjzn1topmOY9OKzYbDz0l7Uf_-Yo3oBNwODk)
@@ -25,7 +25,9 @@ Skills: HTML5 / CSS3 / Bootstrap 5/ Tailwind CSS/ JavaScript / REACT / Node.JS/ 
 - 🌱 I’m currently learning MERN stack development 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: Whatsapp: +8801853599236 Email: ahammedimtius098@gmail.com 
+- 📫 How to reach me: Whatsapp: +8801853599236 Email: ahammedimtius098@gmail.com
+
+
 ![Profile views](https://gpvc.arturio.dev/Imtius-Ahammed) 
 
 
